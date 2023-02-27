@@ -17,7 +17,7 @@
 .nfs*
 
 ### SQLITE
-.db*
+*.db*
 
 ### macOS ###
 # General
